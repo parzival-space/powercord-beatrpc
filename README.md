@@ -5,6 +5,8 @@ BeatRPC is a plugin for [Powercord](https://powercord.dev/) which shows more det
 This way, people can see what song you're playing. <br>
 I plan to add more features in the future, like showing the current song's difficulty, or the current song's bpm.
 
+<img src="https://i.imgur.com/lP88yoK.png">
+
 ## Installation
 
 This plugin requires you to have the [HTTP Status](https://github.com/opl-/beatsaber-http-status) mod for Beat Saber installed.
