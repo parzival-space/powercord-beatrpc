@@ -1,7 +1,8 @@
 {
 	"name": "BeatRPC",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A more detailed Beat Saber RPC",
 	"author": "Parzival#9999",
-	"license": "GPL-3.0-or-later"
+  "permissions": [ "ext_api" ],
+	"license": "MIT"
 }
