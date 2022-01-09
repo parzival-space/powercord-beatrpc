@@ -5,13 +5,7 @@
 ![Size][size-image]
 ![License][license-image]
 
-This plugin allows you to listen to your favorite radio stations while talking to your best friends. <br>
-You can specify your own radio stream in the settings.<br>
-<br>
-<b>
-  Important: The provided url MUST be a link to a DIRECT MEDIA STREAM. This means https://radioXYZ.fm is not a valid url!<br>
-  Stream urls normaly look like https://play.radioXYZ.fm/source.mp3
-</b>
+This plugin adds a RPC to [Beat Saber](https://store.steampowered.com/app/211820/Beat_Saber/) that allows other users to see your current song playing in Beat Saber.<br>
 
 ![][demo-image]
 
