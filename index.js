@@ -99,13 +99,6 @@ module.exports = class BeatRPC extends Plugin {
       // end rpc
       this.closeRPC();
 
-      // warn
-      console.log(
-        `%c[BeatRPC]%c Lost connection to Beat Saber. Reconnecting in 5 seconds...`,
-        "color: #ff0000;",
-        "color: #ffffff;"
-      );
-
       // try to reconnect after 5 seconds
       if (rt) return;
       rt = setInterval(() => {

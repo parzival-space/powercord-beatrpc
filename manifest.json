@@ -1,6 +1,6 @@
 {
 	"name": "BeatRPC",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A more detailed Beat Saber RPC",
 	"author": "Parzival#9999",
   "permissions": [ "ext_api" ],
