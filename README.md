@@ -1,4 +1,4 @@
-# PRadio
+# BeatRPC
 > A more detailed Beat Saber RPC
 
 ![Version][version-image]
